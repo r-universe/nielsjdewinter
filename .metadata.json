@@ -1,0 +1,14 @@
+[
+  {
+    "package": "seasonalclumped",
+    "oncran": true
+  },
+  {
+    "package": "ShellChron",
+    "oncran": true
+  },
+  {
+    "package": "shelltrace",
+    "oncran": true
+  }
+]
