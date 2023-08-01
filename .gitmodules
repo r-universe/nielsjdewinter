@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "seasonalclumped"]
-	path = seasonalclumped
-	url = https://github.com/nielsjdewinter/seasonalclumped
 [submodule "ShellChron"]
 	path = ShellChron
 	url = https://github.com/nielsjdewinter/shellchron
+[submodule "seasonalclumped"]
+	path = seasonalclumped
+	url = https://github.com/nielsjdewinter/seasonalclumped
 [submodule "shelltrace"]
 	path = shelltrace
 	url = https://github.com/nielsjdewinter/shelltrace
